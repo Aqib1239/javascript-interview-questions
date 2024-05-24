@@ -75,7 +75,7 @@
 | 48  | [How do you check web workers browser support](#how-do-you-check-web-workers-browser-support)                                                                 |
 | 49  | [Give an example of a web worker](#give-an-example-of-a-web-worker)                                                                                           |
 | 50  | [What are the restrictions of web workers on DOM](#what-are-the-restrictions-of-web-workers-on-dom)                                                           |
-| 51  | [What is a promise](#what-is-a-promise)                                                                                                                       |
+| 51  | [What is a promise](#what-is-a-promise)                                                                                                                         |
 | 52  | [Why do you need a promise](#why-do-you-need-a-promise)                                                                                                       |
 | 53  | [What are the three states of promise](#what-are-the-three-states-of-promise)                                                                                 |
 | 54  | [What is a callback function](#what-is-a-callback-function)                                                                                                   |
